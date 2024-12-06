@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
+  "version": "1.0.1",
   "notes": "Test version",
   "pub_date": "2021-07-22T19:25:57Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbXFyOWRiV1pUdWhQNVh3djR1RU55V0c4cVZiNUpYWkU5aDNXZUV6U3JXU3c3eU5FT1ZpQXk2UVc4SE1tNUpCeGJDbnQ5aEdSengvQXM3VCs0SWdDYSs1QXZDTzRGNkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzNDY2NzE3CWZpbGU6bGVhcm5fMS4wLjFfeDY0LXNldHVwLmV4ZQp3T0pLQUJxcXNmVUp5S1JUOXNtRXV6Q3JWNXdvVkJ3eHJ5TWRJQ2JDRFozM0VJMndwbjFVSmYrVDVIWmdvQzZxR1FPSlFLTDBlVGs0UnkxV3hMMG1EUT09Cg==",
-      "url": "https://yanhainan123.github.io/learn_1.1.1_x64-setup.exe"
+      "url": "https://yanhainan123.github.io/learn_1.0.1_x64-setup.exe"
     }
   }
 }
