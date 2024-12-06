@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "notes": "Test version",
-  "pub_date": "2022-07-22T19:25:57Z",
+  "pub_date": "2023-07-22T19:25:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbXFyOWRiV1pUdXROVFV4ZFVYeC9NQ3VZNlIraFU0NTk0eUhRTEJOVHc2Z2ppNDdsNHphcno1eGwrWmtwSVNjdUFsYTRXRzZHNkhQU3RXVWJ4bHBFZTFVRjh2REs2T1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzNDY3NzU2CWZpbGU6bGVhcm5fMS4wLjNfeDY0LXNldHVwLmV4ZQp4RFZxaG9VVldJMGFJNzUzaGRzaFp4dUtJMERINnVia2c4cTNuN1I1SWNlK0h2MWh4ZUt6Q0NycS9lZExWMFU1RGR5NHVGWDI0cERGM2dweHUxZzJEUT09Cg==",
-      "url": "https://yanhainan123.github.io/learn_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbXFyOWRiV1pUdWl4NFdJSkMyaERmNSt5dENWclN3WEl6ZXQ4eGF0UWQ0Qk1rK2tRSHJObUhLY3krWWRlVVRtK3A4RzEraHF2eHNyU3A3bTE2YWJSaUpLendhU1pERlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzNDY4MjQ4CWZpbGU6bGVhcm5fMS4wLjRfeDY0LXNldHVwLmV4ZQo1R1VEK2NSUkluUjE5NVFzaERCc1JkNzFYTzUxUnQ0R2lSMFZQaENFU0N1RTNRTS8rbHdseVZVMlA5TW90WlJWYXlPUWd1QVNKZ0NldTZyeG1USklCQT09Cg==",
+      "url": "https://yanhainan123.github.io/learn_1.0.4_x64-setup.exe"
     }
   }
 }
