@@ -1,1 +1,11 @@
-
+{
+  "version": "0.1.4",
+  "notes": "See the assets to download and install this version.",
+  "pub_date": "2024-12-09T09:14:26.655Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQlNRSWM4T1U4RWNzb3ZSbFJmbklDell2QXgvSldnYzNtVjNjVVBGTFhtYmR5eVY2RjB3NFRTZHo2WjFkYTNwbzVoV3A0SzN5NU5oSm1HMStMK1huSTRIdWpOQTQyVXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzNzM1NjY0CWZpbGU6bGVhcm5fMC4xLjRfeDY0X2VuLVVTLm1zaQpURVJQSzhySHh2WWEvVDhtS3BmdllUMTZkSUczYW9DVXRVZXY2ekdybHFremppWGVSQ3l3RkxySy85a2VycTVPenpNYnFvQ3BLcmtrb0hyRnBDS21CQT09Cg==",
+      "url": "https://github.com/yanhainan123/test/releases/download/main/learn_0.1.4_x64_en-US.msi"
+    }
+  }
+}
